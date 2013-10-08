@@ -8,3 +8,5 @@ the safety of the fountain in the center.
 ## HELP
 
 Requires Python 2.6, PyOpenGL 3.x, and PyGame 1.9.x. Sorry.
+
+Created for [Global Game Jam 2011](http://archive.globalgamejam.org/2011/flocks-sake) by a team of people.
